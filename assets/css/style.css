@@ -1,0 +1,36 @@
+/*--------------------------------------------*/
+.evil-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+li {
+   float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 18px 18px;
+}
+
+.evil-menu a:hover {
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1, h3 {
+    text-emphasis: none;
+    text-align: center;
+}
+
+
+
