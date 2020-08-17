@@ -37,7 +37,7 @@ User stories
 ## Wireframe
 This is the wireframe that i did for both desktop and mobile. It shows my explanation on how my website should be.
 
-[MyWireframe](C:/Users/Tinashe%20Chikowore/Downloads/Supervillain%20project.pdf)
+[MyWireframe](https://github.com/chikos96/my-super-villain-website-project/blob/f7597cf93501df89fec901b75046581da1e4f379/Documentation/supervillain-project.pdf)
 
 ## Features
 
