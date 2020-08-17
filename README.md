@@ -1,85 +1,121 @@
 # my-super-villain-website-project
 This is my first project where i'm going to create my first website
 
- Your Project's Name
+ - Supervillain Project
 
-One or two paragraphs providing an overview of your project.
+My project will be based on a supervillain that I like to be recognized 
+and it will be a website based on a female villain known as Reeva Payge from Marvel's comic book series The Gifted. 
+She is the face of a revolution that wants to destroy X men mutants that interferes with her plan to destroy the world.
 
-Essentially, this part is your sales pitch.
- 
-## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## User Experience
+    
+- UX Design
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+This website is for users that are interested in comic book villains. They want to see a villain that deserves to be recognized because of his/her interesting character especially their purpose to bring destruction to the world. 
+My project will help users to see their favorite villains with their interesting web platform and it will achieve by creating a fan base for those that love their favorite villains.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+User stories
+- As a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
+- As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
+- As a user, I want to be able to see the full content of the website.
+- As a user, I want to be able to fully understand his/her purpose as a villain.
+- As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
+- As a villain, I want to have an audience that understands me personally and I want the users to get to know me because of my evil plan to destroy X-men mutants
+- As a villain, I want to be recognized as one of the greatest because I have proved to my audience that I can bring out the best and I'm willing to create a legacy for the next generation villains.
+- As a villain, I want the users to see me clearly and understand what my purpose is.
+- As a returning user, I would like the website to bring out more features such as blogs, gallery or even news updates to see what is going with the villain in the future
+- As a returning user, I would like the website to have major updates especially when I receive the email from the developer.
+
+### Design
+ - Color Scheme
+     -   The main colors I used are purple, light blue and black
+- Typography
+      -  I used Libre Baskerville to create as a main font with the Serif because it creates an interesting presentation for Reeva Payge. This font is nice and beautiful and it works well as users can get to read on-screen clearly and differently. 
+- Imagery
+    -  I found the image on the website to find an interesting supervillain and It made me realize that imagery is very important for my website. This image could attract the user's attention.
+
+## Wireframe
+This is the wireframe that i did for both desktop and mobile. It shows my explanation on how my website should be.
+
+[MyWireframe](file:///C:/Users/Tinashe%20Chikowore/Downloads/Supervillain%20project.pdf)
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The supervillain website will have three navigation menus (About, Bio, Subscribe) with each structured layout. 
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- About- it allows the users to read the information on the front page with the image of Reeva Payge as the leader of the Inner-Circle
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- Bio- it allows the users to read the story of Reeva Payge and how she became the leader. 
+Also, the users will read their abilities, skills, and weakness.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Another feature idea
+- Subscribe- it allows the users to follow her by inputting their name and email address. 
+After that, they are subscribed to her website.
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+-[HTML](https://en.wikipedia.org/wiki/HTML)
+  - it is the standard mark-up language for web pages
+-[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  - it is a language that describes the style of an HTML Document
+-[Balsamiq](https://en.wikipedia.org/wiki/Balsamiq)
+  - it is a graphical user interface website wireframe builder application.
+-[Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+- is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
+    - It was used to assist with the responsiveness and styling of the website. 
+-[GoogleFonts](https://fonts.google.com/)
+  - I used it to import "Libre Baskerville" as a link.
+-[Git](https://git-scm.com/)
+  - it is a command-line tool
+-[GitHub](https://github.com/)
+  - It is a git repository hosting service, but it adds many of its features.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+First I have validated my website using the W3C HTML Validator and W3C CSS Validator to see if there were any errors. 
+I even used DevTools to check how my website is doing and to see if there are any bugs. 
+So far the website has no bugs and no errors.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+-   [W3C Markup Validator index.html results](https://validator.w3.org/nu/#textarea)
+-   [W3C Markup Validator biography.html results](https://validator.w3.org/nu/#textarea)
+-   [W3C Markup Validator subscribe.html results](https://validator.w3.org/nu/#textarea)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+## Further Testing
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+I have also checked my website through browsers like Mozilla Firefox and Microsoft Edge.
+According to each browser, they all work.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+- To deploy my project to GitHub pages, here are the following:
+    1. Log in to GitHub.
+    2. Go to your right-hand profile and locate "your repositories"
+    3. Click to the project (i.e. my supervillain website project)
+    4. Go and click Settings.
+    5. Scroll down to GitHub pages.
+    6. Click and change "None" to "master" because it will automatically show the root folder.
+    7. Click Save.
+    8. The page will automatically refresh.
+    9. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section. 
+    10. Click on the link and it will display the website.
 
 ## Credits
 
+-   [W3Schools](https://www.w3schools.com/): I used this website for revision and also to see fit which code i can modify for my website. The Tutorials are here: (https://www.w3schools.com/html/default.asp)
+-   [Creative-Tim](https://www.creative-tim.com/cheatsheet/bootstrap4#): I used the Boostrap library, made by Tim Creative, was only used for the image and one of the heading.
+
+
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for the about and biograpgh sections was copied from the [Fandom Website](https://thegifted.fandom.com/wiki/Reeva_Payge)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photo used in this site were obtained from Fandom.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration from the Fandom website.
+- I would like to credit to my mentor who understood what my project is all about. 
+- I would like to thank the Tutor Assistance for helping me with technical difficulties.
+
 
