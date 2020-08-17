@@ -81,10 +81,29 @@ So far the website has no bugs and no errors.
 -   [W3C Markup Validator subscribe.html results](https://validator.w3.org/nu/#textarea)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
+### Testing User Stories from User Experience (UX) Section
+
+As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
+First-time users will be greeted with a readable navigation bar that they can go to and see clearly
+As a user, I want to be able to see the full content of the website.
+As first time users are greeted with a readable navigation bar, they will see a huge image of a female supervillain with a brief introduction. The background color is light blue and the navigation bar is purple with three clickable pages
+
+As a user, I want to be able to fully understand his/her purpose as a villain. Also as a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
+First-time users will go to the Bio page and they will see her background story, abilities & skills, and her weakness because the users will be able to read and understand exactly what made this particular character as a supervillain.
+As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
+For users, if they want to subscribe, they can:
+
+1. Subscription
+ - a. Go to "Subscribe" page
+ - b. Type in your name and email
+ - c. Click Subscribe and you are officially subscribed.
+
 ## Further Testing
 
 I have also checked my website through browsers like Mozilla Firefox and Microsoft Edge.
 According to each browser, they all work.
+
+[The screenshots for testing proof](https://github.com/chikos96/my-super-villain-website-project/blob/7511ee35f75b36a8b490733f2e3ec459035a4bcd/Documentation/screenshots%20for%20html%20and%20css%20validation.pdf)
 
 ## Deployment
 
