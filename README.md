@@ -37,7 +37,7 @@ User stories
 ## Wireframe
 This is the wireframe that i did for both desktop and mobile. It shows my explanation on how my website should be.
 
-[MyWireframe](file:///C:/Users/Tinashe%20Chikowore/Downloads/Supervillain%20project.pdf)
+[MyWireframe](C:/Users/Tinashe%20Chikowore/Downloads/Supervillain%20project.pdf)
 
 ## Features
 
@@ -54,20 +54,20 @@ After that, they are subscribed to her website.
 
 ## Technologies Used
 
--[HTML](https://en.wikipedia.org/wiki/HTML)
+1. [HTML](https://en.wikipedia.org/wiki/HTML)
   - it is the standard mark-up language for web pages
--[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+2. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
   - it is a language that describes the style of an HTML Document
--[Balsamiq](https://en.wikipedia.org/wiki/Balsamiq)
+3. [Balsamiq](https://en.wikipedia.org/wiki/Balsamiq)
   - it is a graphical user interface website wireframe builder application.
--[Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
-- is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
+4. [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+    - is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. 
     - It was used to assist with the responsiveness and styling of the website. 
--[GoogleFonts](https://fonts.google.com/)
+5. [GoogleFonts](https://fonts.google.com/)
   - I used it to import "Libre Baskerville" as a link.
--[Git](https://git-scm.com/)
+6. [Git](https://git-scm.com/)
   - it is a command-line tool
--[GitHub](https://github.com/)
+7. [GitHub](https://github.com/)
   - It is a git repository hosting service, but it adds many of its features.
 
 ## Testing
