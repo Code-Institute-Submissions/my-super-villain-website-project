@@ -1,11 +1,11 @@
 # my-super-villain-website-project
-This is my first project where i'm going to create my first website
+This is my first project where i'm going to create my first website using HTML and CSS.
 
- - Supervillain Project
+ # Supervillain Project
 
 My project will be based on a supervillain that I like to be recognized 
 and it will be a website based on a female villain known as Reeva Payge from Marvel's comic book series The Gifted. 
-She is the face of a revolution that wants to destroy X men mutants that interferes with her plan to destroy the world.
+She is the face of a revolution that wants to destroy X-men mutants that interferes with her plan to destroy the world.
 
 ## User Experience
     
