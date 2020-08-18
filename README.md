@@ -37,7 +37,7 @@ to my audience that I can bring out the best and I'm willing to create a legacy 
 ## Wireframe
 This is the wireframe that i did for desktop, mobile and tablet. It shows my explanation on how my website should be.
 
-- [MyWireframe]()
+- [MyWireframe](https://github.com/chikos96/my-super-villain-website-project/blob/42c49ed86a577a2889b82794379a46e7b6a52c3e/documentation/supervillain%20project.pdf)
 
 ## Features
 
@@ -108,10 +108,10 @@ understand exactly what made this particular character as a supervillain.
 
 ## Further Testing
 
-I have also checked my website through browsers like Mozilla Firefox and Microsoft Edge.
-According to each browser, they all work.
+I have also tested my website through browsers like Mozilla Firefox and Microsoft Edge.
+I have also tested my website on different devices and they all work. Here are the screenshots below:
 
-[The screenshots for testing proof]()
+[The screenshots for testing proof](https://github.com/chikos96/my-super-villain-website-project/blob/42c49ed86a577a2889b82794379a46e7b6a52c3e/documentation/proof%20of%20testing%20different%20websites%20and%20devices.pdf)
 ## Deployment
 
 - To deploy my project to GitHub pages, here are the following:
