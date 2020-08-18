@@ -35,9 +35,9 @@ to my audience that I can bring out the best and I'm willing to create a legacy 
     -  I found the image on the website to find an interesting supervillain and It made me realize that imagery is very important for my website. This image could attract the user's attention.
 
 ## Wireframe
-This is the wireframe that i did for both desktop and mobile. It shows my explanation on how my website should be.
+This is the wireframe that i did for desktop, mobile and tablet. It shows my explanation on how my website should be.
 
-[MyWireframe](https://github.com/chikos96/my-super-villain-website-project/blob/f7597cf93501df89fec901b75046581da1e4f379/Documentation/supervillain-project.pdf)
+- [MyWireframe]()
 
 ## Features
 
@@ -82,8 +82,8 @@ First I have validated my website using the W3C HTML Validator and W3C CSS Valid
 I even used DevTools to check how my website is doing and to see if there are any bugs. 
 So far the website has no bugs and no errors.
 
--   [W3C Markup and CSS Validator test results](https://github.com/chikos96/my-super-villain-website-project/blob/07fe398f5d31815ef7f883188ed4cac34c6dd60c/documentation/screenshots%20for%20html%20and%20css%20validation.pdf)
-
+-   [W3C Markup and CSS Validator test results]()
+-   [Using Devtools on my website]()
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -111,8 +111,7 @@ understand exactly what made this particular character as a supervillain.
 I have also checked my website through browsers like Mozilla Firefox and Microsoft Edge.
 According to each browser, they all work.
 
-[The screenshots for testing proof](https://github.com/chikos96/my-super-villain-website-project/blob/7511ee35f75b36a8b490733f2e3ec459035a4bcd/Documentation/screenshots%20for%20html%20and%20css%20validation.pdf)
-
+[The screenshots for testing proof]()
 ## Deployment
 
 - To deploy my project to GitHub pages, here are the following:
