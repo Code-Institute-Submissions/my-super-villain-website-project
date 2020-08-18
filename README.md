@@ -1,9 +1,6 @@
-# my-super-villain-website-project
-This is my first project where i'm going to create my first website using HTML and CSS.
+# Supervillain Project
 
- # Supervillain Project
-
-My project will be based on a supervillain that I like to be recognized 
+My project will be based on a supervillain that I  would like to be recognized 
 and it will be a website based on a female villain known as Reeva Payge from Marvel's comic book series The Gifted. 
 She is the face of a revolution that wants to destroy X-men mutants that interferes with her plan to destroy the world.
 
@@ -11,20 +8,23 @@ She is the face of a revolution that wants to destroy X-men mutants that interfe
     
 - UX Design
 
-This website is for users that are interested in comic book villains. They want to see a villain that deserves to be recognized because of his/her interesting character especially their purpose to bring destruction to the world. 
-My project will help users to see their favorite villains with their interesting web platform and it will achieve by creating a fan base for those that love their favorite villains.
+This website is for users that are interested in comic book villains. 
+They want to see a villain that deserves to be recognized because of his/her interesting character especially 
+their purpose to bring destruction to the world. 
+My project will help users to see their favorite villains with their 
+interesting web platform and it will achieve by creating a fan base for those that love their favorite villains.
 
 ### User stories
-- As a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
+- As a user, I would like to see my favorite villain that has their own background story including 
+his/her abilities and weakness.
 - As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
 - As a user, I want to be able to see the full content of the website.
-- As a user, I want to be able to fully understand his/her purpose as a villain.
 - As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
-- As a villain, I want to have an audience that understands me personally and I want the users to get to know me because of my evil plan to destroy X-men mutants
-- As a villain, I want to be recognized as one of the greatest because I have proved to my audience that I can bring out the best and I'm willing to create a legacy for the next generation villains.
+- As a villain, I want to have an audience that understands me personally and 
+I want the users to get to know me because of my evil plan to destroy X-men mutants
+- As a villain, I want to be recognized as one of the greatest because I have proved 
+to my audience that I can bring out the best and I'm willing to create a legacy for the next generation villains.
 - As a villain, I want the users to see me clearly and understand what my purpose is.
-- As a returning user, I would like the website to bring out more features such as blogs, gallery or even news updates to see what is going with the villain in the future
-- As a returning user, I would like the website to have major updates especially when I receive the email from the developer.
 
 ### Design
  - Color Scheme
@@ -44,13 +44,19 @@ This is the wireframe that i did for both desktop and mobile. It shows my explan
 The supervillain website will have three navigation menus (About, Bio, Subscribe) with each structured layout. 
  
 ### Existing Features
-- About- it allows the users to read the information on the front page with the image of Reeva Payge as the leader of the Inner-Circle
+- About- it allows the users to read the information on the front page with the image of Reeva Payge as 
+the leader of the Inner-Circle
 
 - Bio- it allows the users to read the story of Reeva Payge and how she became the leader. 
 Also, the users will read their abilities, skills, and weakness.
 
 - Subscribe- it allows the users to follow her by inputting their name and email address. 
 After that, they are subscribed to her website.
+
+## Future Feautures
+- As a returning user, I want the website to bring out more features such as blogs, 
+gallery or even news updates to see what is going with the villain in the future
+- As a returning user, I want the website to have major updates especially when I receive the email from the developer.
 
 ## Technologies Used
 
@@ -84,10 +90,14 @@ So far the website has no bugs and no errors.
 ### As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
 - First-time users will be greeted with a readable navigation bar that they can go to and see clearly
 ### As a user, I want to be able to see the full content of the website.
-- As first time users are greeted with a readable navigation bar, they will see a huge image of a female supervillain with a brief introduction. The background color is light blue and the navigation bar is purple with three clickable pages
+- As first time users are greeted with a readable navigation bar, 
+they will see a huge image of a female supervillain with a brief introduction. 
+The background color is light blue and the navigation bar is purple with three clickable pages
 
-### As a user, I want to be able to fully understand his/her purpose as a villain. Also as a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
-- First-time users will go to the Bio page and they will see her background story, abilities & skills, and her weakness because the users will be able to read and understand exactly what made this particular character as a supervillain.
+### As a user, Also as a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
+- First-time users will go to the Bio page and they will see her background story, 
+abilities & skills, and her weakness because the users will be able to read and 
+understand exactly what made this particular character as a supervillain.
 ### As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
 - For users, if they want to subscribe, they can:
 
@@ -119,6 +129,7 @@ According to each browser, they all work.
 
 ## Credits
 
+## Code
 -   [W3Schools](https://www.w3schools.com/): I used this website for revision and also to see fit which code i can modify for my website. The Tutorials are here: (https://www.w3schools.com/html/default.asp)
 -   [Creative-Tim](https://www.creative-tim.com/cheatsheet/bootstrap4#): I used the Boostrap library, made by Tim Creative, was only used for the image and one of the heading.
 

@@ -1,86 +1,86 @@
+body {
+	background-color: lightblue;
+	font-family: 'Libre Baskerville', serif;
+}
 
 /*--------------------------------------------Navigation*/
 
- nav ul {
-  margin: 0;
-  padding: 0;
-  background-color: purple;
-  display: flex;
-  justify-content: center;
-  list-style: none;
+nav ul {
+	margin: 0;
+	padding: 0;
+	background-color: purple;
+	display: flex;
+	justify-content: center;
+	list-style: none;
 }
 
- li {
-  display: inline;
+li {
+	display: inline;
 }
 
-li a {
-  color: pink;
-  text-align: center;
-  text-transform: uppercase;
+nav a {
+	color: pink;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+nav a:hover {
+	color: white;
 }
 
 nav ul li {
-    padding: 10px 15px;
+	padding: 10px 15px;
 }
 
 nav ul li a {
-    text-decoration: none;
-    font-size: 20px;
-    font-family: 'Libre Baskerville', serif;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: 'Libre Baskerville', serif;
 }
 
-body {
-    background-color:lightblue;
-    
-   
-}
-
-nav a:hover{
-    color: white;
-}
-   
 /*--------------------------------------------Headings and Text*/
+
 p {
-    font-size: 18px;
-    text-align: center;
-    font-family: 'Libre Baskerville', serif;
-    
+	font-size: 18px;
+	text-align: center;
 }
 
-h1, h2, h3 {
-    text-emphasis: none;
-    text-align: center;
-    font-family: 'Libre Baskerville', serif;
-    text-decoration: underline;
+h1,
+h2,
+h3 {
+	text-emphasis: none;
+	text-align: center;
+	text-decoration: underline;
 }
+
 
 /*--------------------------------------------Image*/
 
 img {
-    display: block;
-    height: auto;
-    width: 100%;
+	display: block;
+	height: auto;
+	width: 100%;
 }
+
 
 /*--------------------------------------------Subscription*/
 
 .form-group {
-    width: 70%;
-    padding: 8px 10px;
+	width: 70%;
+	padding: 8px 10px;
 }
 
-.form-control{
-    border: 3px;
+.form-control {
+	border: 3px;
 }
 
 
 /*--------------------------------------------Media Queries*/
 
-@media only screen and (max-width:600px){
-    nav ul {
-        height: 180px;
-        flex-direction: column;
-        text-align: center;
-    }
+@media only screen and (max-width:600px) {
+	nav ul {
+		height: 180px;
+		flex-direction: column;
+		text-align: center;
+	}
 }
