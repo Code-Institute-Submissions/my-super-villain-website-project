@@ -14,7 +14,7 @@ She is the face of a revolution that wants to destroy X men mutants that interfe
 This website is for users that are interested in comic book villains. They want to see a villain that deserves to be recognized because of his/her interesting character especially their purpose to bring destruction to the world. 
 My project will help users to see their favorite villains with their interesting web platform and it will achieve by creating a fan base for those that love their favorite villains.
 
-User stories
+### User stories
 - As a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
 - As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
 - As a user, I want to be able to see the full content of the website.
@@ -83,15 +83,15 @@ So far the website has no bugs and no errors.
 
 ### Testing User Stories from User Experience (UX) Section
 
-As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
-First-time users will be greeted with a readable navigation bar that they can go to and see clearly
-As a user, I want to be able to see the full content of the website.
-As first time users are greeted with a readable navigation bar, they will see a huge image of a female supervillain with a brief introduction. The background color is light blue and the navigation bar is purple with three clickable pages
+### As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
+- First-time users will be greeted with a readable navigation bar that they can go to and see clearly
+### As a user, I want to be able to see the full content of the website.
+- As first time users are greeted with a readable navigation bar, they will see a huge image of a female supervillain with a brief introduction. The background color is light blue and the navigation bar is purple with three clickable pages
 
-As a user, I want to be able to fully understand his/her purpose as a villain. Also as a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
-First-time users will go to the Bio page and they will see her background story, abilities & skills, and her weakness because the users will be able to read and understand exactly what made this particular character as a supervillain.
-As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
-For users, if they want to subscribe, they can:
+### As a user, I want to be able to fully understand his/her purpose as a villain. Also as a user, I would like to see my favorite villain that has their own background story including his/her abilities and weakness.
+- First-time users will go to the Bio page and they will see her background story, abilities & skills, and her weakness because the users will be able to read and understand exactly what made this particular character as a supervillain.
+### As a user, I want to catch up with her updates because I want to know if there are any changes to the website.
+- For users, if they want to subscribe, they can:
 
 1. Subscription
  - a. Go to "Subscribe" page
