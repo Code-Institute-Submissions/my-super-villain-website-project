@@ -76,10 +76,8 @@ First I have validated my website using the W3C HTML Validator and W3C CSS Valid
 I even used DevTools to check how my website is doing and to see if there are any bugs. 
 So far the website has no bugs and no errors.
 
--   [W3C Markup Validator index.html results](https://validator.w3.org/nu/#textarea)
--   [W3C Markup Validator biography.html results](https://validator.w3.org/nu/#textarea)
--   [W3C Markup Validator subscribe.html results](https://validator.w3.org/nu/#textarea)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+-   [W3C Markup and CSS Validator test results](https://github.com/chikos96/my-super-villain-website-project/blob/07fe398f5d31815ef7f883188ed4cac34c6dd60c/documentation/screenshots%20for%20html%20and%20css%20validation.pdf)
+
 
 ### Testing User Stories from User Experience (UX) Section
 
