@@ -83,8 +83,7 @@ I even used DevTools to check how my website is doing and to see if there are an
 So far the website has no bugs and no errors.
 
 -   [W3C Markup and CSS Validator test results](https://github.com/chikos96/my-super-villain-website-project/blob/48fd5aec864ccf31d634c2516797aafd0daf5b66/documentation/screenshots%20for%20html%20and%20css%20validation.pdf)
--   [Using Devtools on my website](https://github.com/chikos96/my-super-villain-website-project/blob/a18a36616b10a345abc2eb23e04279f987c95c3b/documentation/testing%20my%20website%20using%20devtools.pdf)
-
+-   [Using Devtools on my website](https://github.com/chikos96/my-super-villain-website-project/blob/9561f2784b7a3aaa7cf82ab36f13d210b0ba2a0e/documentation/testing%20my%20website%20using%20devtools.pdf)
 ### Testing User Stories from User Experience (UX) Section
 
 ### As a user, I want to be able to navigate easily so that I can see clearly where I need to go.
